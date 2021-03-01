@@ -1,7 +1,7 @@
 #import tkinter
 #ventana = tkinter.Tk();
 #ventana.geometry("600x400")
-#etiqueta = tkinter.Label(ventana, text ="Aqui deberia ir mi programa :v", bg="red")
+#etiqueta = tkinter.Label(ventana, text ="Aqui deberia ir mi programa", bg="red")
 #etiqueta.pack(side =tkinter.LEFT)
 #btn1 = tkinter.Button(ventana, text ="Click aqui")
 #btn1.pack()
